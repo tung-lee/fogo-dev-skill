@@ -1,0 +1,14 @@
+{
+  "name": "fogo-dev-skill",
+  "description": "End-to-end Fogo blockchain development playbook for Claude Code",
+  "owner": {
+    "name": "tung-lee"
+  },
+  "plugins": [
+    {
+      "name": "fogo-dev-skill",
+      "description": "Fogo Sessions, deployment, DeFi ecosystem, program analysis, and SVM-compatible development on the fastest L1",
+      "source": "./plugins/fogo-dev-skill"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "fogo-dev-skill",
+  "version": "0.1.0",
+  "description": "End-to-end Fogo blockchain development playbook — Sessions SDK, deployment, DeFi ecosystem, program analysis, architecture, and troubleshooting",
+  "author": {
+    "name": "tung-lee"
+  },
+  "keywords": ["fogo", "blockchain", "solana", "svm", "defi", "sessions"],
+  "skills": "./skills/"
+}
